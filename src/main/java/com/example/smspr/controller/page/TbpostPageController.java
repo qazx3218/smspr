@@ -6,7 +6,7 @@
     import org.springframework.web.bind.annotation.RequestMapping;
 
     @Controller
-    @RequestMapping
+    @RequestMapping("/tbpost")
     public class TbpostPageController {
 
         //2024-07-10
